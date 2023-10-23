@@ -1,5 +1,5 @@
 # TPRMI
-Durant ce TP au aura l'occasion d'exploiter RMI et SWING, en creeant deux projet ServerRMI et ClientRMI , niveau de ClientRMI on a cree une interface qui gere les machines et les salles
+Durant ce TP on aura l'occasion d'exploiter RMI et SWING, en creeant deux projet ServerRMI et ClientRMI , niveau de ClientRMI on a cree une interface qui gere les machines et les salles
 
 ## Conception
 
