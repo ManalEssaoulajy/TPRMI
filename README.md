@@ -63,5 +63,17 @@ Tester le boutton supprimer
 
 ![Capture d'écran 2023-10-23 160434](https://github.com/ManalEssaoulajy/TPRMI/assets/147450276/32d5df5a-6899-4b82-81b1-f31f3c805ee7)
 
+## Technologies utlisees 
+- Java
+- Swing
+- Xampp( MySql) pour creation et l'apercu des bases de donnees
+- Hibernate
+- RMI
+
+## Les fonctionnalites implementees 
+
+CRUD (Create, Read, Update, Delete) pour machine.
+CRUD operations pour salle
+
 
 
